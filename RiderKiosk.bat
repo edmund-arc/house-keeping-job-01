@@ -6,6 +6,7 @@ set "directoryPath=\\192.168.1.11\c\temp"
 set "destinationFolder=C:\RiderKiosk"
 
 REM Set the number of days for files to be considered old
+REM set 1 day old, seems hard coded
 set "daysOld=1"
 
 REM Get the current date
