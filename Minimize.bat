@@ -1,4 +1,4 @@
-
+# added a batch file to minimise to windows background
 start /min C:\RiderGate\net7.0\BackUpApp.exe
 
 start /min C:\RiderKiosk\net7.0\BackUpApp.exe
