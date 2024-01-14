@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
+REM Why echo off
 REM Set the path to the remote directory
 set "directoryPath=C:\temp"
 set "destinationRoot=C:\PillionKiosk"
