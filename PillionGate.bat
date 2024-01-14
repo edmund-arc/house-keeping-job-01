@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
+REM why echo off?
 REM Set the path to the directory
 set "directoryPath=\\192.168.1.2\c\temp"
 set "destinationFolder=C:\PillionGate"
