@@ -1,6 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
+REM Why echo off?
 REM Set the path to the directory
 set "directoryPath=\\192.168.1.11\c\temp"
 set "destinationFolder=C:\RiderKiosk"
