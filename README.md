@@ -5,3 +5,6 @@ This is a batch job written in C# and to housekeep Windows files
 - copy all folders and file from c:\temp to the newly created folder
 - zipped up all content the newly created folder 
 - delete all content from from c:\temp
+
+
+I started to update this file on 14-Mar-2024
